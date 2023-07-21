@@ -1,0 +1,5 @@
+.full-size-img {
+    width: 100vw;
+    height: 1000px;
+    object-fit: cover;
+}
