@@ -1,0 +1,8 @@
+.service-card{
+    width: fit-content;
+    height: 100%;
+    box-shadow: 0 0 5px black;
+    padding: 10px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}

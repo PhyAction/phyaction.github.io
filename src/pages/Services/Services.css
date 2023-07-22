@@ -1,0 +1,25 @@
+.services{
+    margin-top: 140px;
+    height: fit-content;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.service-grid{
+    padding: 0px 30px;
+    display: grid;
+    width: 100%;
+    max-width: 1000px;
+    height: fit-content;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width:600px){
+    .service-grid{
+        grid-template-columns: 1fr;
+    }
+}
