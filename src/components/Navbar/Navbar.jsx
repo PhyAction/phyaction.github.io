@@ -10,7 +10,7 @@ function Navbar() {
                 <Link to="/" className='branding'>
                     <img src={logo} height={100} width={100} alt=''/>
                     <div className='branding-text'>
-                        <h1 className='logo-text'>Phyaction</h1>
+                        <h1 className='logo-text'>Phy Action</h1>
                         <h1 className='logo-text'>Physiotherapy</h1>
                     </div>
                 </Link>
