@@ -7,6 +7,7 @@ function Services() {
             <h1>Our Services</h1>
             <hr style={{width: "100%", maxWidth:"1000px"}}/>
             <br/>
+            <br/>
             <div className='service-grid'>
                 <ServiceCard serv="Physiotherapy" desc="Phyaction Physiotherapy 
                 clinic provides services to clients in the community 
@@ -31,18 +32,22 @@ function Services() {
                 abnormal gait. Patients often experience immediate relief and 
                 can expect complete recovery within 3-6 months."/>
                 <ServiceCard serv="Reflexology" desc="Reflexology involves the 
-                application of pressure to specific points on the feet, ears, 
-                and hands to relieve pain, alleviate stress and reduce muscle 
+                application of pressure to specific points on the body 
+                to relieve pain, alleviate stress and reduce muscle 
                 tension." />
-                <ServiceCard serv="Acupuncture" desc="Acupuncture involves the 
-                practice of penetrating the skin with thin needles to stimulate 
-                the central nervous system and can aid in treating Nausea, headaches, 
-                Osteoarthritis and other conditions." />
-                <ServiceCard serv="Occupational Therapy" desc="Occupational 
-                therapy helps people of all ages who have physical, sensory, or 
-                cognitive problems and can treat a variety of conditions 
-                including sensory processing disorders, mental health related 
-                illnesses, and traumatic injuries to the brain or spinal cord." />
+                <ServiceCard serv="Acupuncture" desc="Acupuncture involves 
+                stimulating the central nervous system and can aid in treating 
+                nausea, headaches, osteoarthritis and other conditions." />
+                <ServiceCard serv="Occupational Therapy" desc="Phyaction 
+                Physiotherapy's Occupational Therapy (OT) program specializes 
+                in empowering children and adolescents to develop skills to 
+                manage their activities of daily living, and their feelings and 
+                behaviours both at home, school, and during playtime. Whether 
+                it's mastering specific skills, navigating social or academic 
+                challenges, or coping with the demands of everyday life, 
+                our dedicated Occupational Therapy team is here to guide your 
+                children through these obstacles, fostering growth and nurturing
+                 self-confidence." read_more more="/services/ot/"/>
             </div>
             <div style={{marginTop: "20px"}}>
                 <h2>Service fees Covered By</h2>

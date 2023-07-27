@@ -8,6 +8,7 @@ function Contact() {
                 <h2>33 Howard Street</h2>
                 <h2>Toronto, Ontario</h2>
                 <h2>M4X 1J6</h2>
+                <br/>
                 <hr/>
                 <h1>Phone: (416) 968-1864</h1>
                 <h1>Fax: (416) 968-6469</h1>
