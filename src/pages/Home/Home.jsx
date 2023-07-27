@@ -7,9 +7,8 @@ function Home() {
     return (
     <>  
         <div className='home-first'>
-            <video className='full-size-img' loop autoPlay muted>
+            <video className='full-size-img' loop autoPlay muted playsInline>
                 <source src={front_video} type="video/mp4"/>
-                Browser cannot play video
             </video>
             <div className='front-desk-text'>
                 <h1>Phy Action Physiotherapy</h1>
