@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfa70bfb.css",
+    "main.css": "/static/css/main.fb2233ba.css",
     "main.js": "/static/js/main.1ae9e29d.js",
     "static/js/787.9f74a170.chunk.js": "/static/js/787.9f74a170.chunk.js",
     "static/media/clinicvid.mp4": "/static/media/clinicvid.b5b84308e5c2370cd40f.mp4",
     "static/media/front-desk.jpg": "/static/media/front-desk.47cccec3e231e13c445b.jpg",
     "index.html": "/index.html",
-    "main.dfa70bfb.css.map": "/static/css/main.dfa70bfb.css.map",
+    "main.fb2233ba.css.map": "/static/css/main.fb2233ba.css.map",
     "main.1ae9e29d.js.map": "/static/js/main.1ae9e29d.js.map",
     "787.9f74a170.chunk.js.map": "/static/js/787.9f74a170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfa70bfb.css",
+    "static/css/main.fb2233ba.css",
     "static/js/main.1ae9e29d.js"
   ]
 }
