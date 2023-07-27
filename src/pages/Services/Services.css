@@ -19,6 +19,15 @@
     box-sizing: border-box;
 }
 
+.highlighted-service{
+    padding: 0px 30px;
+    margin: 1rem 0px;
+    width: 100%;
+    max-width: 1000px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
 @media only screen and (max-width:600px){
     .service-grid{
         grid-template-columns: 1fr;

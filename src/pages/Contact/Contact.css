@@ -7,6 +7,14 @@
     align-items: center;
 }
 
+.full-map{
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    margin: 20px 20px;
+    object-fit: cover;
+}
+
 .inner-contact{
     width: 100%;
     max-width: 1000px;

@@ -8,8 +8,20 @@ function Services() {
             <hr style={{width: "100%", maxWidth:"1000px"}}/>
             <br/>
             <br/>
+            <div className='highlighted-service'>
+                <ServiceCard serv="Occupational Therapy" desc="Phy Action 
+                    Physiotherapy's Occupational Therapy (OT) program specializes 
+                    in empowering children and adolescents to develop skills to 
+                    manage their activities of daily living, and their feelings and 
+                    behaviours both at home, school, and during playtime. Whether 
+                    it's mastering specific skills, navigating social or academic 
+                    challenges, or coping with the demands of everyday life, 
+                    our dedicated Occupational Therapy team is here to guide your 
+                    children through these obstacles, fostering growth and nurturing
+                    self-confidence." new read_more more="/services/ot/"/>
+            </div>
             <div className='service-grid'>
-                <ServiceCard serv="Physiotherapy" desc="Phyaction Physiotherapy 
+                <ServiceCard serv="Physiotherapy" desc="Phy Action Physiotherapy 
                 clinic provides services to clients in the community 
                 for injuries related to sports, motor vehicle accidents, 
                 WSIB acute and chronic medical/post-surgical conditions. 
@@ -38,16 +50,6 @@ function Services() {
                 <ServiceCard serv="Acupuncture" desc="Acupuncture involves 
                 stimulating the central nervous system and can aid in treating 
                 nausea, headaches, osteoarthritis and other conditions." />
-                <ServiceCard serv="Occupational Therapy" desc="Phyaction 
-                Physiotherapy's Occupational Therapy (OT) program specializes 
-                in empowering children and adolescents to develop skills to 
-                manage their activities of daily living, and their feelings and 
-                behaviours both at home, school, and during playtime. Whether 
-                it's mastering specific skills, navigating social or academic 
-                challenges, or coping with the demands of everyday life, 
-                our dedicated Occupational Therapy team is here to guide your 
-                children through these obstacles, fostering growth and nurturing
-                 self-confidence." read_more more="/services/ot/"/>
             </div>
             <div style={{marginTop: "20px"}}>
                 <h2>Service fees Covered By</h2>
