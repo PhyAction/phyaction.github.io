@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/phyaction.github.io/static/css/main.dfa70bfb.css",
+    "main.js": "/phyaction.github.io/static/js/main.9f0b9ae3.js",
+    "static/js/787.9f74a170.chunk.js": "/phyaction.github.io/static/js/787.9f74a170.chunk.js",
+    "static/media/clinicvid.mp4": "/phyaction.github.io/static/media/clinicvid.b5b84308e5c2370cd40f.mp4",
+    "static/media/front-desk.jpg": "/phyaction.github.io/static/media/front-desk.47cccec3e231e13c445b.jpg",
+    "index.html": "/phyaction.github.io/index.html",
+    "main.dfa70bfb.css.map": "/phyaction.github.io/static/css/main.dfa70bfb.css.map",
+    "main.9f0b9ae3.js.map": "/phyaction.github.io/static/js/main.9f0b9ae3.js.map",
+    "787.9f74a170.chunk.js.map": "/phyaction.github.io/static/js/787.9f74a170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa70bfb.css",
+    "static/js/main.9f0b9ae3.js"
+  ]
+}
