@@ -1,6 +1,6 @@
 {
   "name": "phyaction-website",
-  "homepage": "https://phyaction.github.io/phyaction.github.io",
+  "homepage": "https://phyaction.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
