@@ -14,7 +14,7 @@ function Contact() {
                 <br/>
                 <hr/>
                 <h1>Phone: (416) 968-1864</h1>
-                <h1>Fax: (416) 968-6469</h1>
+                <h1>Fax: (416) 968-6494</h1>
                 <hr/>
                 <h1>Business Hours: </h1>
                 <h2>Monday - Friday: 9am-7pm by appointment only</h2>

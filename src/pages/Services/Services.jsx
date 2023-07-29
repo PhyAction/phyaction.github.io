@@ -9,8 +9,7 @@ function Services() {
             <br/>
             <br/>
             <div className='highlighted-service'>
-                <ServiceCard serv="Occupational Therapy" desc="Phy Action 
-                    Physiotherapy's Occupational Therapy (OT) program specializes 
+                <ServiceCard serv="Occupational Therapy" desc="Our Occupational Therapy (OT) program specializes 
                     in empowering children and adolescents to develop skills to 
                     manage their activities of daily living, and their feelings and 
                     behaviours both at home, school, and during playtime. Whether 
